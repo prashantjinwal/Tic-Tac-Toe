@@ -5,9 +5,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap');
 
-/* * {
+* {
   box-sizing: border-box;
-} */
+}
 
 /* html {
   font-family: 'Roboto Slab', sans-serif;
@@ -37,7 +37,11 @@ body {
 header {
   text-align: center;
 }
-
+input{
+  background-color: #21201d;
+  padding: 5px;
+  border-radius:5px ;
+}
 header img {
   width: 8rem;
   object-fit: contain;
