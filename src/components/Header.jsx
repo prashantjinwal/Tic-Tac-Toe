@@ -1,4 +1,4 @@
-import logo from "../../public/game-logo.png"
+import logo from "/game-logo.png"
 
 function Header() {
   return (
