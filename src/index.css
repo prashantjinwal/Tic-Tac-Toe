@@ -231,6 +231,7 @@ ol {
   display: block;
   margin: 0 auto;
   font-size: 1.5rem;
+  margin-top: 2em;
   background: none;
   border: 2px solid #fcd256;
   color: #fcd256;
